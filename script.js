@@ -1,0 +1,1 @@
+let count=0;function add(name){count++;document.getElementById('count').textContent=count;const t=document.getElementById('toast');t.textContent=name+' added to research list';t.classList.add('show');setTimeout(()=>t.classList.remove('show'),1600)}

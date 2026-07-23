@@ -1,0 +1,1 @@
+VEYRA premium research catalogue concept. Catalogue: BPC-157, TB-500, GHK-Cu, KPV, MOTS-C, SS-31, Semax, Selank, Epithalon. Front-end demonstration only; obtain UK regulatory review before offering any product for sale.
